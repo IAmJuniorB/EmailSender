@@ -38,10 +38,10 @@ class EmailSender():
     
 EM = EmailSender()
     
-EM.send_an_email("bonfanti7414@gmail.com",
-                 "hezvhavrfpyberdc",
-                 "briannap582@gmail.com",
-                 "Python Email",
+EM.send_an_email("whoever@gmail.com",
+                 "ThIsIsMyPaSsWoRd",
+                 "WhoeverThisIs@gmail.com",
+                 "Subject",
                  """
-I sent this from my own program
+Body message
 """)
